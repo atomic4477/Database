@@ -1,0 +1,8 @@
+{
+  "showDialog": true,
+  "expires": "15-03-2026",
+  "title": "Subscription Expired",
+  "message": "Masa Aktif Habis, jika ingin melanjutkan langganan silakan hubungi Admin",
+  "UpdateButtonText": "Contact Admin",
+  "UpdateButtonUrl": "https://t.me/+XDUYMqN6f6gxOGY1"
+}
